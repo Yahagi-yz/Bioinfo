@@ -1,7 +1,7 @@
 ---
 name: Daily Check-in
 title: "[DAY 1] 学习打卡"
-date:"2025/02/17"
+date: "2025/02/17"
 ---
 
 ### 今日进展
